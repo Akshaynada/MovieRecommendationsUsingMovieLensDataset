@@ -3,15 +3,15 @@ NEXTFLIX: Movie Recommendations Using MovieLens Dataset
 
 Dataset 
 -------
-MovieLens 1M dataset
-1,000,209 anonymous ratings
-3,900 movies
-6,040 users who joined in the year 2000
-Users File
+1. MovieLens 1M dataset
+2. 1,000,209 anonymous ratings
+3. 3,900 movies
+4. 6,040 users who joined in the year 2000
+5. Users File
 UserID::Gender::Age::Occupation::Zip-code
-Ratings file
+6. Ratings file
 UserID::MovieID::Rating::Timestamp
-Movies file
+7. Movies file
 MovieID::Title::Genres
 
 
